@@ -1,5 +1,5 @@
 .Button {
-    display: url("/images/boton.png");
+    font-size: 40px;
     padding: 12px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -7,16 +7,12 @@
     width: 70px;
     height: 70px;
     position: absolute;
-    bottom: 570px;
+    top: 210px;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 50%;
-
-
-
-
-
-  
+    opacity: 0.5;
+    color: grey;
 
   }
   
