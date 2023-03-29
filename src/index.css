@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Gupter:wght@400;500&family=Silkscreen:wght@400;700&display=swap');
+:root{
+  --white: #FFFFFF;
+  --black: #25063F;
+}
+body{
+  margin: 0;
+
+}
+
+html{
+  box-sizing: border-box;
+  font-family: 'Faster One', cursive;
+font-family: 'Gupter', serif;
+font-family: 'Silkscreen', cursive;
+}
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}

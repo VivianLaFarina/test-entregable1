@@ -1,0 +1,23 @@
+.Button {
+    display: url("/images/boton.png");
+    padding: 12px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 570px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+
+
+
+
+
+  
+
+  }
+  
+  
